@@ -34,6 +34,7 @@ THEN I find that the app uses Redux instead of the Context API
 ```
 
 ## Deployed Link
+https://enigmatic-temple-31565.herokuapp.com/
 
 ## GitHub Link
 https://github.com/camilleyong/redux-store
