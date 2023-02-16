@@ -11,8 +11,8 @@
     "build": "cd client && npm run build"
   },
   "engines": {
-    "node": "16.18.1",
-    "npm": "7.24.2"
+    "node": "16.x",
+    "npm": "8.x"
   },
   "keywords": [],
   "author": "",
