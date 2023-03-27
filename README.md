@@ -1,7 +1,7 @@
 # redux-store
 
 ## Description
-A miscellaneous Redux store for consumers to shop and checkout items.
+A miscellaneous Redux store for consumers to shop and checkout items. Used HTML, CSS, Javascript, Redux, Node.js, Express.js, MySQL, and Heroku.
 
 ## Table of Contents
 - [License](#license)
